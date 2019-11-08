@@ -1,0 +1,3 @@
+Para empaquetar nuestra maquina utilizariamos este comando:
+
+vagrant package --base "nombre box"
